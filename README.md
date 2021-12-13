@@ -1,6 +1,6 @@
 ![Image description](https://i1.faceprep.in/ProGrad/prograd-logo.png)
 
-# ProGrad Project-Builder | JS | SMARTWATCH STOPWATCH TIMER
+# ProGrad Project-Builder | JS | SMARTWATCH MEDIAPLAYER
 
 We have learned all the important concepts in JavaScript. Now lets work with our project builder in building a smartwatch, applying all of the concepts we have just learned.
 
@@ -22,11 +22,9 @@ git push origin master
 And finally, create a pull request so your ProGrad Mentor (PM) can review your work.
 ```
 
-### Progression 1: STOPWATCH TIMER
-In this task you need to create a stopwatch timer.
+### Progression 1: LET'S PLAY A SONG
+In this task you are going to build and integrate music player in your smartwatch.
 
-![Image description](https://i1.faceprep.in/ProGrad/sm-5.PNG)
-
-
+![Image description](https://i1.faceprep.in/ProGrad/sm-4.PNG)
 
 Happy Coding ProGrads❤️
