@@ -124,3 +124,4 @@ function reset()
     min = 0;
     stopWatch.textContent = stopWatch.textContent = getTimer();
 }
+ 
