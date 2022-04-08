@@ -15,7 +15,7 @@ setInterval(() => {
       "The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser.",
       "JavaScript, often abbreviated as JS, is a programming language that conforms to the ECMAScript specification.",
     ];
-    
+     
     let selectMsg = (msgId) => {
       let msg = document.getElementById("showMsg");
       msg.style.display = "block";
